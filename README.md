@@ -1,2 +1,2 @@
 # saludo-hola-mundo-
-ejercicio practico de poo
+ejercicio practico de Programacion dirigida a objetos
